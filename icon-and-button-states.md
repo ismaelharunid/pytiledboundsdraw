@@ -1,7 +1,7 @@
 
-= Icon and Button States
+# Icon and Button States
 
-== State Types (Gtk.StateType)
+## State Types (Gtk.StateType)
 
 | Name     | Value | Description |
 | -------- | ----- | ----------- |
